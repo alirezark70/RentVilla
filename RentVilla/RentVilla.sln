@@ -1,10 +1,40 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain Layer", "Domain Layer", "{D51FCA6F-FD73-4B6D-912C-04F1CE514B0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Layer", "Application Layer", "{CFAEB65B-3D7A-4444-AD0D-929F62E1E5FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure Layer", "Infrastructure Layer", "{5E0A334D-18C7-4C98-92A7-0FF96F2FF274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Presentation Layer", "{C32B6107-0581-4E18-B9D0-3B6BC5A3051A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentVilla.Domain", "Domain Layer\RentVilla.Domain\RentVilla.Domain.csproj", "{8BCBE6DC-819C-4937-92DC-3951578FCFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentVilla.Application", "Application Layer\RentVilla.Application\RentVilla.Application.csproj", "{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCBE6DC-819C-4937-92DC-3951578FCFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCBE6DC-819C-4937-92DC-3951578FCFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCBE6DC-819C-4937-92DC-3951578FCFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCBE6DC-819C-4937-92DC-3951578FCFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BCBE6DC-819C-4937-92DC-3951578FCFCE} = {D51FCA6F-FD73-4B6D-912C-04F1CE514B0E}
+		{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9} = {CFAEB65B-3D7A-4444-AD0D-929F62E1E5FC}
 	EndGlobalSection
 EndGlobal
