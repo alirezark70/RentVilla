@@ -1,0 +1,12 @@
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\bin\Debug\net8.0\RentVilla.Domain.deps.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\bin\Debug\net8.0\RentVilla.Domain.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\bin\Debug\net8.0\RentVilla.Domain.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.AssemblyInfoInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.AssemblyInfo.cs
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.sourcelink.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\refint\RentVilla.Domain.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\RentVilla.Domain.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Domain Layer\RentVilla.Domain\obj\Debug\net8.0\ref\RentVilla.Domain.dll

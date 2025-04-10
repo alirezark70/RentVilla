@@ -1,0 +1,16 @@
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.deps.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Domain.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Domain.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.csproj.AssemblyReference.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.AssemblyInfoInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.AssemblyInfo.cs
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.csproj.CoreCompileInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.sourcelink.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVill.C43648AB.Up2Date
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\refint\RentVilla.Application.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\ref\RentVilla.Application.dll

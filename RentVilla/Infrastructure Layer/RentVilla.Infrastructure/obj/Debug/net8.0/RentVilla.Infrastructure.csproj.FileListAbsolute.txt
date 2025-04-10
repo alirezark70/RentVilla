@@ -1,0 +1,12 @@
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.deps.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.AssemblyInfo.cs
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.sourcelink.json
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\refint\RentVilla.Infrastructure.dll
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.pdb
+C:\Users\BARMAN\source\repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\ref\RentVilla.Infrastructure.dll

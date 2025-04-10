@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RentVilla.Application/1.0.0": {
+        "dependencies": {
+          "RentVilla.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RentVilla.Application.dll": {}
+        }
+      },
+      "RentVilla.Domain/1.0.0": {
+        "runtime": {
+          "RentVilla.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentVilla.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentVilla.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
