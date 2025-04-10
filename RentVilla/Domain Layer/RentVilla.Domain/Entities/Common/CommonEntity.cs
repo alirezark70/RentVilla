@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RentVilla.Domain.Entities.Common
 {
-    public class CommonEntity<TIdentity> where TIdentity : struct
+    public class CommonEntity<TIdentity>: ICommonEntity where TIdentity : struct
     {
         public TIdentity Id { get; set; }
         public DateTime CreatedDate { get; set; }
@@ -15,5 +15,5 @@ namespace RentVilla.Domain.Entities.Common
         public int ModifiedBy { get; set; }
     }
 
-    
+    public interface ICommonEntity { }
 }
