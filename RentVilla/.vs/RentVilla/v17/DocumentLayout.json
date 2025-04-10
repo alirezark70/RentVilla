@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|c:\\users\\barman\\source\\repos\\rentvilla\\rentvilla\\application layer\\rentvilla.application\\rentvilla.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|solutionrelative:application layer\\rentvilla.application\\rentvilla.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\barman\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\rentvilla.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\rentvilla.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\barman\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\common\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\entities\\common\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RentVilla.Application",
-              "DocumentMoniker": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\RentVilla.Application.csproj",
-              "RelativeDocumentMoniker": "Application Layer\\RentVilla.Application\\RentVilla.Application.csproj",
-              "ToolTip": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\RentVilla.Application.csproj",
-              "RelativeToolTip": "Application Layer\\RentVilla.Application\\RentVilla.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T20:59:51.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RentVilla.Domain",
-              "DocumentMoniker": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
-              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
-              "ToolTip": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
-              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T20:54:31.81Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -53,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "ToolTip": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:37:48.401Z",
+              "EditorCaption": ""
             }
           ]
         }
