@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "RentVilla.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RentVilla.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RentVilla.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentVilla.Application.dll": {}
+        }
+      },
+      "RentVilla.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RentVilla.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentVilla.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RentVilla.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Application Layer/RentVilla.Application/RentVilla.Application.csproj",
+      "msbuildProject": "../../Application Layer/RentVilla.Application/RentVilla.Application.csproj"
+    },
+    "RentVilla.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain Layer/RentVilla.Domain/RentVilla.Domain.csproj",
+      "msbuildProject": "../../Domain Layer/RentVilla.Domain/RentVilla.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "RentVilla.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\email\\.nuget\\packages\\": {},
@@ -38,7 +75,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\RentVilla.Application.csproj": {
+              "projectPath": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\RentVilla.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

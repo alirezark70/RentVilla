@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CDHtueyc+jF1u7tGqqX42u7hcwnkrWIiYZr+uZsmJdA=",
+  "Source": "RentVilla.WebApi",
+  "BasePath": "_content/RentVilla.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

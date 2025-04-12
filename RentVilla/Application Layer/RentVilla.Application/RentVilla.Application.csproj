@@ -11,6 +11,7 @@
     <Folder Include="Features\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Mappings\" />
+    <Folder Include="Persistence\Contracts\" />
     <Folder Include="Validators\" />
   </ItemGroup>
 
