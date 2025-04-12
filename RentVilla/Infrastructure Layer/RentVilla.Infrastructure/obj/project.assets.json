@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BARMAN\\.nuget\\packages\\": {},
+    "C:\\Users\\email\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\RentVilla.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\RentVilla.Infrastructure.csproj",
       "projectName": "RentVilla.Infrastructure",
-      "projectPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\RentVilla.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\BARMAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\RentVilla.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\email\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Infrastructure Layer\\RentVilla.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BARMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\email\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

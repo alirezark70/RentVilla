@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj": {}
+    "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj": {
+    "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
         "projectName": "RentVilla.Domain",
-        "projectPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
-        "packagesPath": "C:\\Users\\BARMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\obj\\",
+        "projectPath": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj",
+        "packagesPath": "C:\\Users\\email\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\email\\Source\\Repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BARMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\email\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

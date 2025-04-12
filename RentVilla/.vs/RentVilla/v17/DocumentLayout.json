@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\",
+  "WorkspaceRootPath": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|c:\\users\\barman\\source\\repos\\rentvilla\\rentvilla\\application layer\\rentvilla.application\\common\\baseinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|solutionrelative:application layer\\rentvilla.application\\common\\baseinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\users\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\entities\\users\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\barman\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\common\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\users\\personprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\entities\\users\\personprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\common\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\entities\\common\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\domain layer\\rentvilla.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCBE6DC-819C-4937-92DC-3951578FCFCE}|Domain Layer\\RentVilla.Domain\\RentVilla.Domain.csproj|solutionrelative:domain layer\\rentvilla.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|c:\\users\\email\\source\\repos\\rentvilla\\rentvilla\\application layer\\rentvilla.application\\common\\baseinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAB6F72-1988-4CD7-8B89-B6B6A7B50EB9}|Application Layer\\RentVilla.Application\\RentVilla.Application.csproj|solutionrelative:application layer\\rentvilla.application\\common\\baseinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +46,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\CompanyProfile.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\CompanyProfile.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\CompanyProfile.cs",
+              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\CompanyProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:17:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PersonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\PersonProfile.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\PersonProfile.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\PersonProfile.cs",
+              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\PersonProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:14:57.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Enums\\UserType.cs",
+              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:10:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:05:50.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CommonEntity.cs",
-              "DocumentMoniker": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
               "RelativeDocumentMoniker": "Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
-              "ToolTip": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
               "RelativeToolTip": "Domain Layer\\RentVilla.Domain\\Entities\\Common\\CommonEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\BARMAN\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\RentVilla\\RentVilla\\Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
               "RelativeToolTip": "Application Layer\\RentVilla.Application\\Common\\BaseInterfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T15:15:18.543Z",
               "EditorCaption": ""
