@@ -1,4 +1,4 @@
-﻿using RentVilla.Domain.Entities.Common;
+﻿using RentVilla.Application.Dtos.Base;
 using RentVilla.Domain.Enums;
 using System;
 using System.Collections.Generic;
@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RentVilla.Domain.Entities.Users
+namespace RentVilla.Application.Dtos.Users
 {
-    public class User:CommonEntity<int>
+    public class UserDto:BaseDto<int>
     {
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
@@ -17,7 +17,4 @@ namespace RentVilla.Domain.Entities.Users
         public UserType UserType { get; set; }
         public DateTime LastLogin { get; set; }
     }
-
-
-    
 }
