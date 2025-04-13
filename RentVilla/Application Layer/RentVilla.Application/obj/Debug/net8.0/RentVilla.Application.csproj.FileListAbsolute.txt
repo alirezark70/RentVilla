@@ -20,3 +20,13 @@ C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Appl
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.AssemblyInfo.cs
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.csproj.CoreCompileInputs.cache
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.sourcelink.json
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.deps.json
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Application.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Domain.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\bin\Debug\net8.0\RentVilla.Domain.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVill.C43648AB.Up2Date
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\refint\RentVilla.Application.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\RentVilla.Application.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Application Layer\RentVilla.Application\obj\Debug\net8.0\ref\RentVilla.Application.dll

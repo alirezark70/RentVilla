@@ -16,3 +16,15 @@ C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.I
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.AssemblyInfo.cs
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.sourcelink.json
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.deps.json
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Infrastructure.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Application.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Domain.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Application.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\bin\Debug\net8.0\RentVilla.Domain.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVill.8FAFF93E.Up2Date
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\refint\RentVilla.Infrastructure.dll
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\RentVilla.Infrastructure.pdb
+C:\Users\email\Source\Repos\RentVilla\RentVilla\Infrastructure Layer\RentVilla.Infrastructure\obj\Debug\net8.0\ref\RentVilla.Infrastructure.dll
